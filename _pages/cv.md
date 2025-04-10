@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* 2024 Fall & 2025 Spring: Research Assistant
+* Fall 2024 & Spring 2025: Research Assistant
   * New York University
   * Project: Automated Radiology Report Generation System
   * Supervisor: Prof. [Sumit Chopra](https://www.spchopra.net/) and Prof. [Yiqiu Shen](https://seyiqi.github.io/)
@@ -26,10 +26,20 @@ Research experience
   * Project: Pathology Extraction System for Radiology Reports
   * Supervisor: Prof. [Sumit Chopra](https://www.spchopra.net/) and Prof. [Yiqiu Shen](https://seyiqi.github.io/)
 
-* 2023 Fall & 2024 Spring: Research Assistant
+* Fall 2023 & Spring 2024: Research Assistant
   * New York University
   * Project: Termolator System for Term Extraction
   * Supervisor: Prof. [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html)
+
+* Fall 2023 & Spring 2024: Research Assistant
+  * New York University Shanghai
+  * Project: Domain Adaptation Through Label Propagation
+  * Supervisor: Prof. [Li Guo](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/li-guo)
+
+* Fall 2023 & Spring 2024: Research Assistant
+  * New York University Shanghai
+  * Project: Few-Shot Semantic Segmentation
+  * Supervisor: Prof. [Li Guo](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/li-guo)
 
 Publications
 ======
