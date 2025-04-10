@@ -31,12 +31,12 @@ Research experience
   * Project: Termolator System for Term Extraction
   * Supervisor: Prof. [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html)
 
-* Fall 2023 & Spring 2024: Research Assistant
+* Summer 2023: Research Assistant
   * New York University Shanghai
   * Project: Domain Adaptation Through Label Propagation
   * Supervisor: Prof. [Li Guo](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/li-guo)
 
-* Fall 2023 & Spring 2024: Research Assistant
+* Spring 2023: Research Assistant
   * New York University Shanghai
   * Project: Few-Shot Semantic Segmentation
   * Supervisor: Prof. [Li Guo](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/li-guo)
