@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in ?, ? University, 2027 (expected)
+* M.S. in Information Networking, Carnegie Mellon University, 2027 (expected)
 * B.S. in Computer Science & Data Science, NYU Shanghai, 2025
 
 Research experience
 ======
+* Summer 2025: Research Assistant
+  * Carnegie Mellon University
+  * Project: Healthcare Foundation Model
+  * Supervisor: Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/)
+
 * Fall 2024 & Spring 2025: Research Assistant
   * New York University
   * Project: Automated Radiology Report Generation System
