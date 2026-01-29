@@ -46,12 +46,6 @@ Research experience
   * Project: Few-Shot Semantic Segmentation
   * Supervisor: Prof. [Li Guo](https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people/li-guo)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Full CV
 ======
 * [Curriculum Vitae](/files/CV.pdf)
