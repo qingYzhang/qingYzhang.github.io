@@ -18,7 +18,7 @@ Research experience
 ======
 * Summer 2025: Research Assistant
   * Carnegie Mellon University
-  * Project: Healthcare Foundation Model
+  * Project: Cross-National EHR Representation Learning & Domain Adaptation
   * Supervisor: Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/)
 
 * Fall 2024 & Spring 2025: Research Assistant
