@@ -9,11 +9,12 @@ redirect_from:
 
 Welcome to my personal website!
 
-I’m currently a First-Year Master's Student at [Carnegie Mellon University](https://www.cmu.edu). My research interests are multimodal models, large language models, and their applications in healthcare.
+I’m Steven Zhang, a second-year master’s student in Information Networking at [Carnegie Mellon University](https://www.cmu.edu/). My research interests are multimodal learning, large language models, and their applications in healthcare, with a particular focus on learning representations that generalize across clinical datasets.
 
-Currently, I am working on healthcare foundation models under the supervision of Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/). My specific job responsibility is to use data generalization techniques to improve the performance of downstream tasks for the model.
+At CMU, I worked with Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/) on cross-national EHR representation learning and domain adaptation. My research explored contrastive learning, clinical code alignment, and task-specific data selection to transfer representations learned from Taiwan’s national health insurance data to U.S. clinical datasets.
 
-During my undergraduate years at [New York University](https://www.nyu.edu), I worked on automated radiology report generation from knee X-rays under the guidance of Prof. [Sumit Chopra](https://www.spchopra.net/) and Prof. [Yiqiu Shen](https://seyiqi.github.io/). This project integrated state-of-the-art vision-language models with clinical workflows to support diagnostic decision-making and medical education.
+I am currently working with Prof. [Sumit Chopra](https://www.spchopra.net/) at NYU Grossman School of Medicine on MRI reconstruction, implementing and evaluating reconstruction methods on the fastMRI brain dataset.
+
+During my undergraduate years at [New York University](https://www.nyu.edu/), I worked on automated radiology report generation from knee X-rays under the guidance of Prof. [Sumit Chopra](https://www.spchopra.net/) and Prof. [Yiqiu Shen](https://seyiqi.github.io/), combining vision-language models with physician-guided reporting approaches. I also developed clinical NLP methods for extracting pathology information from radiology reports to support medical education.
 
 Feel free to explore my site to learn more about my work, projects, and research!
-
