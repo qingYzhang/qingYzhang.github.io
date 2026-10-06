@@ -16,6 +16,11 @@ Education
 
 Research experience
 ======
+* Summer 2026 & Fall 2026: Research Assistant
+  * NYU Langone Health
+  * Project: MRI Reconstruction
+  * Supervisor: Prof. [Sumit Chopra](https://www.spchopra.net/)
+
 * Summer 2025 & Fall 2025 & Spring 2026: Research Assistant
   * Carnegie Mellon University
   * Project: Cross-National EHR Representation Learning & Domain Adaptation
