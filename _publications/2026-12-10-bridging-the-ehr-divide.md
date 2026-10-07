@@ -10,9 +10,10 @@ paperurl: "https://arxiv.org/abs/2610.04946"
 ---
 
 **Author:** Qingyang Zhang
+Clinical prediction tasks often have heterogeneous negative populations: patients who do not develop a particular disease may still have very different clinical histories. I introduce **Asymmetric Supervised Contrastive Learning (Asymmetric SupCon)**, a task-specific pre-training objective that brings together patient trajectories sharing a positive future outcome without explicitly attracting negative trajectories to one another.
 
-Accepted for poster presentation at **The Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential**, held at NeurIPS 2026.
+The study pre-trains temporal Transformer encoders using a Taiwanese NHIRD cohort of **3.98 million patients**, with up to five years of history per training example, and evaluates transfer to **MIMIC-IV and EHRSHOT**. To bridge differences in clinical vocabularies, a hybrid alignment pipeline combines direct code mappings with semantic retrieval using Qwen3-Embedding-8B and FAISS.
 
-Asymmetric SupCon learns outcome-specific patient representations by attracting trajectories sharing a positive clinical outcome without explicitly attracting negative trajectories to one another. The study evaluates transfer from Taiwan's NHIRD to MIMIC-IV and EHRSHOT, with a hybrid semantic mapping pipeline enabling alignment across heterogeneous clinical vocabularies.
+On MIMIC-IV, NHIRD pre-training improves over random initialization across all three evaluated tasks. At EHRSHOT’s **k=16** setting, the transferred models exceed the strongest reported baseline on all five incident-disease prediction tasks, including Acute MI (**AUPRC 0.153 vs. 0.118**). A controlled ablation on approximately 400K NHIRD patients achieves the highest mean AUPRC on three of four tasks, supporting the asymmetric objective’s value for cross-national transfer.
 
 [Paper](https://arxiv.org/abs/2610.04946) | [Code](https://github.com/qingYzhang/Asymmetric_SupCon)
