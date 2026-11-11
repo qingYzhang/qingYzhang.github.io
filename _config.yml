@@ -22,7 +22,7 @@ repository               : "qingYzhang/qingYzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo.jpg"
+  avatar           : "portrait.jpg"
   name             : "Steven Zhang"
   pronouns         : "he/him/his"# example: "she/her"  
   bio              : "Second-Year Master's Student at CMU"
